@@ -1,0 +1,4 @@
+._*
+__pycache__
+*.egg-info
+libclient/test/files/retrieved_*
