@@ -20,7 +20,7 @@ setup(name='libclient',
       install_requires=[
           # -*- Extra requirements: -*-
           'six',
-          'requests==2.3.0'
+          'requests==2.24.0'
       ],
       entry_points="""
       # -*- Entry points: -*-
