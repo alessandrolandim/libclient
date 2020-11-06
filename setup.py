@@ -19,7 +19,7 @@ setup(name='libclient',
       zip_safe=True,
       install_requires=[
           # -*- Extra requirements: -*-
-          'six == 1.7.2',
+          'six',
           'requests==2.24.0'
       ],
       entry_points="""
